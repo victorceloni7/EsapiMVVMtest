@@ -136,7 +136,7 @@ namespace WPFDemo2
                 },
                 new Tratamento
                 {
-                    Nome = "FAST FORWARD Lymphatic RT 5 fr x 520 cGy (2600 cGy)",
+                    Nome = "FAST FORWARD 5 fr x 520 cGy (2600 cGy)",
                     OrgaosRisco = new List<OrgaoRisco>
                     {
                         new OrgaoRisco
